@@ -273,9 +273,6 @@ git fetch origin
 
 # Pull with rebase instead of merge
 git pull --rebase origin main
-```
-
----
 
 ## Practical Examples
 
